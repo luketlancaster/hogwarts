@@ -1,3 +1,10 @@
+# User Added
+.vscode/
+.DS_Store
+package-lock.json
+build/
+.firebase/
+
 # Logs
 logs
 *.log
